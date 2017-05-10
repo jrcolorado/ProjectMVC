@@ -1,0 +1,25 @@
+body{
+    
+  font-family: "Times New Roman", Times, serif;
+}
+
+#topo{
+    
+    height: 150px;
+		
+		border: 1px solid black;
+		background: orange;
+}
+
+#corpo{
+    
+    height: 300px;
+    
+}
+
+#rodape{
+      height: 150px;
+		
+		border: 1px solid black;
+		background: #CCCCCC;
+}
