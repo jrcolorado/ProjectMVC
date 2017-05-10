@@ -10,7 +10,7 @@ body{
 
 #corpo{
     position: relative;
-    height: 300px;
+   
    padding-left:30px; 
        padding-right: 30px;
     padding: 30px; 
@@ -19,9 +19,11 @@ body{
 
 #rodape{
      margin: 0;
-    background-color: #CCCCCC;
-    height: 30px;
-    width: 100%;
   
-   
+    height: 30px;
+    width: 100%;   
+}
+#home{
+  position: relative;   
+    
 }

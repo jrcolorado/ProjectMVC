@@ -6,7 +6,7 @@
     <body>       
         <div id="topo">
             <center>
-       <img align="center" src="assets/imagens/galeria123.png"/> 
+       <img align="center" src="assets/images/logoTopo.png"/> 
         </center> 
     </div> 
          
@@ -16,7 +16,7 @@
         
      <div id="rodape">
             <center>
-     <font color="black">pagina By JrColorado - joaoromario@gmail.com.br</font> 
+     <font color="black">Pagina By JrColorado - joaoromario@gmail.com.br</font> 
         </center> 
     </div>        
     </body>
