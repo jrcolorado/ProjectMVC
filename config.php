@@ -6,7 +6,7 @@ global $config;
 $config = array();
 
 if (ENVIRONMENT == "development") {
-    $config['dbname'] = 'joao';
+    $config['dbname'] = 'galeria';
     $config['host'] = 'localhost';
     $config['dbuser'] = 'root';
     $config['dbpass'] = '475236';

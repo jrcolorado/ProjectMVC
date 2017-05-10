@@ -3,11 +3,10 @@
     <title>Aulas curso sobre MVC</title>
     <link href="<?php echo BASE_URL;?>/assets/css/style.css" rel="stylesheet" />
     </head>
-    <body>
-        
+    <body>       
         <div id="topo">
             <center>
-       <font color="red"><h1>Topo do meu site !!!!!</h1></font> 
+       <img align="center" src="assets/imagens/galeria123.png"/> 
         </center> 
     </div> 
          
@@ -17,7 +16,7 @@
         
      <div id="rodape">
             <center>
-     <font color="red"><h1>Rodapé do meu site !!!!!</h1></font> 
+     <font color="black">pagina By JrColorado - joaoromario@gmail.com.br</font> 
         </center> 
     </div>        
     </body>
