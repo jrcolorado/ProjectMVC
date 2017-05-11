@@ -34,6 +34,7 @@ and open the template in the editor.
 <br/><br/>
 
 <div id="foto">
+  
     <?php foreach($fotos as $foto): ?><center>
 <img src="assets/images/galeria/<?php echo $foto['url']; ?>" width="300" border="0" /><br/>
 

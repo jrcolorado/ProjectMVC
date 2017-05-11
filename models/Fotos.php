@@ -1,6 +1,10 @@
 <?php
 class Fotos extends model {
     
+        public function _construct(){
+            parent::__construct();
+        }
+    
     public function saveFotos() {
         
         if(isset($_FILES['arquivo']) && !empty($_FILES['arquivo']['tmp_name'])) {
